@@ -14,6 +14,7 @@ const allowedOrigins = [
   'https://rexxiez.netlify.app',
   'https://bellbusinesscanada.netlify.app',
   'https://bellbiz.netlify.app',
+  'https://mybellbiz.netlify.app',
   'https://kraken-9pod.vercel.app',
   'https://groot-rho.vercel.app',
    // add all your trusted frontends here

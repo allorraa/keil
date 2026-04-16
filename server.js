@@ -12,11 +12,9 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://rexxiez.netlify.app',
-  'https://bellbusinesscanada.netlify.app',
+  'https://astonishing-eclair429680.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://mybellbiz.netlify.app',
-  'https://bellbizca-delta.vercel.app',
-  'https://jhvnb.vercel.app',
   'https://bellbizcanadaen.vercel.app',
    // add all your trusted frontends here
 ];

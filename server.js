@@ -12,6 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://wbell.netlify.app',
+  'https://brilliant-kulfi-a6cd6e.netlify.app',
    // add all your trusted frontends here
 ];
 
